@@ -1,0 +1,2 @@
+Linux is a powerful OS
+Devops is Automation

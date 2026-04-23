@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x 6 devops devops 4096 Apr 22 18:41 .
+drwxr-x--- 7 devops devops 4096 Apr 22 18:37 ..
+drwxrwxr-x 2 devops devops 4096 Apr 22 18:28 configs
+drwxrwxr-x 2 devops devops 4096 Apr 22 18:23 notes
+-rw-rw-r-- 1 devops devops    0 Apr 22 18:41 ouput.txt
+drwxrwxr-x 2 devops devops 4096 Apr 22 18:28 projects
+drwxrwxr-x 3 devops devops 4096 Apr 22 18:24 scripts

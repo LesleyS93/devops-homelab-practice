@@ -1,0 +1,5 @@
+Day 1 Devops Lab
+- VM setup complete
+- System update
+- Basic tools installed
+- Workspace created
