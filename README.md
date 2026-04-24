@@ -10,7 +10,8 @@ This repository documents my 30-day DevOps learning journey focused on building 
 - Day 1: Environment setup (Linux VM, Git configuration)
 - Day 2: Linux fundamentals (file system, permissions, commands)
 - Day 3: Networking & SSH (key-based authentication, remote access)
-
+- Day 4: Git & GitHub Setup
+- Day 5: Bash scripting & automation
 ---
 
 ## Tools & Technologies
@@ -19,6 +20,16 @@ This repository documents my 30-day DevOps learning journey focused on building 
 - Git & GitHub
 - SSH
 - Networking tools (ping, curl, netstat)
+
+___
+
+## Skills Gained
+
+. Linux administration
+. Networking & SSH
+. Git version control
+. Bash scripting & Automation
+
 
 ---
 
