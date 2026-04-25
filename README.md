@@ -12,6 +12,7 @@ This repository documents my 30-day DevOps learning journey focused on building 
 - Day 3: Networking & SSH (key-based authentication, remote access)
 - Day 4: Git & GitHub Setup
 - Day 5: Bash scripting & automation
+- Day 6: Docker basics (containers)
 ---
 
 ## Tools & Technologies
@@ -20,6 +21,7 @@ This repository documents my 30-day DevOps learning journey focused on building 
 - Git & GitHub
 - SSH
 - Networking tools (ping, curl, netstat)
+- Docker & Containers
 
 ___
 
@@ -29,7 +31,7 @@ ___
 . Networking & SSH
 . Git version control
 . Bash scripting & Automation
-
+. Docker & containers
 
 ---
 
